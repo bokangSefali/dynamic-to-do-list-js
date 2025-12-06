@@ -49,5 +49,5 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     // Step 6: Invoke addTask on DOMContentLoaded (as required)
-    addTask();
+    //addTask();
 });
